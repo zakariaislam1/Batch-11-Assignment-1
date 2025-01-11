@@ -35,6 +35,10 @@ header, main{
     background-color: #F1F1F3;
     
 }
+.nav-content .sign-in:hover{
+    background-color: #006A50;
+    color: white;
+}
 /* Banner section styles */
 
 .banner-section{
