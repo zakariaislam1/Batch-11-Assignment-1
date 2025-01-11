@@ -216,6 +216,59 @@ header, main{
     color: rgba(14, 14, 14, 0.6);
 }
 
+/* Opinion */
+.opinion-title{
+    margin-top: 80px;
+    font-family: "Fira Sans", serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+.opinion-container{
+    width: 100%;
+    height: 250px;
+    background-color: white;
+    margin-top: 24px;
+    padding: 30px 0;
+    border-radius: 16px;
+    font-family: "Fira Sans", serif;
+}
+.opinion-container table{
+    width: 1120px;
+    height: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    align-items: center;
+}
+
+table, th, td{
+    border: 1px solid rgba(14, 14, 14, 0.15);
+}
+table thead{
+    background-color: #C6E4D6;
+}
+table th{
+    padding: 24px;
+    text-align: left;
+    border: none;
+    font-size: 20px;
+    font-weight: 500;
+}
+table .opinion{
+    text-align: center;
+}
+table td{
+    padding: 24px;
+    font-weight: 600;
+}
+table .tab-right{
+    text-align: center;
+}
+.select-box{
+    background-color: #C6E4D6;
+    padding: 10px 15px;
+    border-radius: 4px;
+}
+
 /* news section */
 .news-section{
     width: 100%;
