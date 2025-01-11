@@ -334,6 +334,7 @@ header, main{
 }
 .donate-bottom .donate-inp{
     border: none;
+    border-bottom: 1px solid rgba(14, 14, 14, 0.15);
     width: 1032px;
     height: 60px;
     text-align: center;
